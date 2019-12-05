@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-starter",
+  "description": "Gatsby Starter",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx gatsby build",
+    "dev": "npx gatsby develop --https",
+    "serve": "npx gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^2.18.6",
+    "gatsby-cli": "^2.8.15",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-react": "^7.17.0",
+    "prettier": "^1.19.1"
+  }
+}
